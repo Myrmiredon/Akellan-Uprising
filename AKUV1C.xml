@@ -1,0 +1,4765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>AKU</name>
+      <longname>Akellan Uprising</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Bisapient Rift</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}: Target artifact or enchantment you control becomes a 3/3 Incarnation creature in addition to its other types until end of turn. 
+Activate only outside of combat.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Property Auctioneer</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Snake Hag </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Property Auctioneer enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)
+Permanents you control with counters on them have deathtouch.</text>
+    </card>
+    <card>
+      <name>Settlement&apos;s Birth</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Settlement’s Birth enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)
+Tap three untapped artifacts you control: Draw a card.</text>
+    </card>
+    <card>
+      <name>Urdonic Tithe Taker</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Minion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{1}, Sacrifice a creature: Urdonic Tithe Taker gains your choice of haste, first strike, or +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Radicalised Revenant</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Spirit Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, target creature can’t be blocked this turn if it has power less than or equal to the number of Humans in your graveyard.</text>
+    </card>
+    <card>
+      <name>Ithian Emissaries</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ithian Emissaries deals combat damage to an opponent, scry 2.
+Whenever you scry one or more cards, draw a card. (Do this after scrying.)</text>
+    </card>
+    <card>
+      <name>Scion of the Call</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Efreet Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Transformed creatures you control get +1/+1.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Lycanopractor</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a permanent you control transforms or enters transformed, create a 1/1 white Citizen creature token.</text>
+    </card>
+    <card>
+      <name>Species Representative</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat Plant Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {3} less to cast if there are six or more creature types among non-Human creatures you control.
+Trample</text>
+    </card>
+    <card>
+      <name>Ambassador of Svakarataja</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hex Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Exploit (When this creature enters, you may sacrifice a creature.)
+Whenever a creature you control exploits, target creature you control gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Crumbling Crib</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Building Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Impervious Walls</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target permanent gains indestructible until end of turn.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Aspect of Community</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Aspect of Community enters, create two 1/1 white Citizen creature tokens.
+Sapience 2—{5} ({5}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Pious Coinscale</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hex Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Exploit (When this creature enters, you may sacrifice a creature.)
+When Pious Coinscale exploits a creature, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Den Builder</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Den Builder enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Spireline Warden</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Griffin Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Spireline Warden enters, other permanents you control get +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Ithian Snowstorm</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ithian Snowstorm deals 3 damage to target attacking or blocking creature.
+Scry 1.</text>
+    </card>
+    <card>
+      <name>Passive-Aggressive Door</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Tap target creature.</text>
+    </card>
+    <card>
+      <name>Shining Hospital</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Shining Hospital enters or attacks, up to one target creature gains lifelink until end of turn.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Imprisonment</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonland permanent
+Enchanted permanent loses all abilities and can’t attack or block.</text>
+    </card>
+    <card>
+      <name>Hold Accountable</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Badge of Office</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has lifelink.
+Whenever a creature enters, if it shares no creature types with another creature you control, you may attach Badge of Office to it.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Nature Reserve</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Nature Reserve enters, exile target artifact or enchantment an opponent controls until Nature Reserve leaves the battlefield, then scry 2.</text>
+    </card>
+    <card>
+      <name>Canal Skater</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fish Worker </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Canal Skater enters, return target creature card with toughness 2 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Mother of Notions</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mother of Notions enters, create a 3/2 blue Incarnation creature token.</text>
+    </card>
+    <card>
+      <name>Thought Leader</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Thought Leader has flying if there are six or more creature types among non-Human creatures you control.</text>
+    </card>
+    <card>
+      <name>Bastion of Morality</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hex Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
+When Bastion of Morality exploits a creature, distribute two +1/+1 counters among one or two target permanents.</text>
+    </card>
+    <card>
+      <name>Edean Sentry</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Lizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Edean Sentry gets +2/+2 as long as you’ve scried this turn.</text>
+    </card>
+    <card>
+      <name>Benevolent Farmhand</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Benevolent Farmhand enters, scry 2.</text>
+    </card>
+    <card>
+      <name>Dusk Sentinel</name>
+      <set rarity="common" splitterPath="/Dusk Sentinel.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Werewolf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Dusk Sentinel.
+Whenever another creature you control dies, put a +1/+1 counter on Dusk Sentinel.
+---
+(Back): Dawn Sentinel</text>
+      <related attach="transform">Dawn Sentinel</related>
+    </card>
+    <card>
+      <name>Dawn Sentinel</name>
+      <set rarity="common" splitterPath="/Dawn Sentinel.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Scout </type>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Dawn Sentinel.
+Flying
+---
+(Front): Dusk Sentinel</text>
+    </card>
+    <card>
+      <name>Vratan Philanthropist</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vratan Philanthropist enters with a +1/+1 counter on it.
+When Vratan Philanthropist dies, move its counters onto target creature you control.</text>
+    </card>
+    <card>
+      <name>Percival&apos;s Vanguard</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Zombie Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Percival’s Vanguard attacks, you may sacrifice a creature. If you do, Percival’s Vanguard gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Blighted Feast</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a creature. When you sacrifice a creature this way, scry 2.</text>
+    </card>
+    <card>
+      <name>Collect Tax</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay {2} or remove a counter from a permanent you control.
+You draw two cards and you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Aspect of Poverty</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
+Sapience 4—{6} ({6}: If this isn’t a creature, put four +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Old Guard Fanatic</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Zombie Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Pay 1 life: Return Old Guard Fanatic from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Intensive Labor</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Donation Taker</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, {T}: Each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Consume Host</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a creature. If you do, return a creature card with equal or lesser mana value from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Bones to Bricks</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature, enchantment, or planeswalker.</text>
+    </card>
+    <card>
+      <name>Host Farm Shepherd</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hex Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
+Deathtouch
+When Host Farm Shepherd exploits a creature, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Dead Weight</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -2/-2.</text>
+    </card>
+    <card>
+      <name>Vratan Dockhand</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Vratan Dockhand deals damage to an opponent, put a +1/+1 counter on up to one target permanent you control with no counters on it.</text>
+    </card>
+    <card>
+      <name>Host Farm Escapee</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Survivor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Unsafe Workplace</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target permanent gets -3/-1 until end of turn.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Host Farm Entertainer</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Eye Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Host Farm Entertainer enters, mill two cards, then you may return a Human card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Blackhand Veteran</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Blackhand Veteran attacks, target transformed creature you control gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Spawn of Svakarataja</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Worm Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Spawn of Svakarataja and it gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Aspect of Commerce</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Aspect of Commerce enters, create a Treasure token.
+Sapience 2—{1} ({1}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Raging Recruiter</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Raging Recruiter has menace if you control a transformed permanent.</text>
+    </card>
+    <card>
+      <name>Omnisonder&apos;s Flow</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters on an artifact or enchantment you control.</text>
+    </card>
+    <card>
+      <name>Thoughtglass Amulet</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature token enters under your control, you may attach Thoughtglass Amulet to it.
+Equipped creature gets +1/+0 and has haste.
+Equip 1R</text>
+    </card>
+    <card>
+      <name>Toddler Tantrum</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Toddler Tantrum deals 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Wrangle</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature with power 4 or less until end of turn. Untap it. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Imposing Gateway</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1R: Target creature gains menace until end of turn.
+Sapience 4—{6} ({6}: If this isn’t a creature, put four +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Highlands Retriver</name>
+      <set rarity="common" splitterPath="/Highlands Retriver.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Orc Werewolf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Highlands Retriver.
+---
+(Back): Highlands Rescuer</text>
+      <related attach="transform">Highlands Rescuer</related>
+    </card>
+    <card>
+      <name>Highlands Rescuer</name>
+      <set rarity="common" splitterPath="/Highlands Rescuer.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf Knight </type>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Highlands Rescuer.
+---
+(Front): Highlands Retriver</text>
+    </card>
+    <card>
+      <name>Rowdy Protest</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature can’t block this turn.
+Creatures target player controls get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Fiesty Yearling</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Minotaur Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fiesty Yearling can’t block.
+{1}, Sacrifice a creature: Put a +1/+1 counter on Fiesty Yearling.</text>
+    </card>
+    <card>
+      <name>Infectious Strike</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn. If it’s transformed, create a 2/2 red Werewolf creature token the next time it deals damage this turn.</text>
+    </card>
+    <card>
+      <name>Call Thunder</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Call Thunder deals 2 damage divided as you choose among one or two targets.</text>
+    </card>
+    <card>
+      <name>Dominated Vassal</name>
+      <set rarity="common" splitterPath="/Dominated Vassal.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard Werewolf Serf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{6}: Transform Dominated Vassal. Activate only outside of combat.
+Trample
+---
+(Back): Callwolf Tyrant</text>
+      <related attach="transform">Callwolf Tyrant</related>
+    </card>
+    <card>
+      <name>Callwolf Tyrant</name>
+      <set rarity="common" splitterPath="/Callwolf Tyrant.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Berserker </type>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+---
+(Front): Dominated Vassal</text>
+    </card>
+    <card>
+      <name>Gigantoform Protector</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Gigantoform Protector is attacking, other creatures you control can’t be blocked unless Gigantoform Protector is blocked.</text>
+    </card>
+    <card>
+      <name>Odajex Beastmaster</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2R, Exile Odajex Beastmaster from your graveyard: Return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Vratan Settlers</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Viashino Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap target artifact or land.</text>
+    </card>
+    <card>
+      <name>Scrounging Thallid</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fungus Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Scrounging Thallid enters with two +1/+1 counters on it.
+At the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Thallid onto another target permanent.</text>
+    </card>
+    <card>
+      <name>Hamletback Turtle</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Turtle Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hamletback Turtle enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Grassclade Defender</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant Saproling Archer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast this spell as though it had flash if you control two or more non-Human creatures.
+Reach</text>
+    </card>
+    <card>
+      <name>Hazenwyld Envoy</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goat Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hazenwyld Envoy enters, you may return another permanent you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>City-Razer</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever City-Razer attacks, you may sacrifice an artifact. If you do, it gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Into the Crowd</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target permanent. It gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Disgraced Urdon</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Wurm Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {2}</text>
+    </card>
+    <card>
+      <name>Newborn Home</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 4 life.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Giant Growth</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Aspect of Harmony</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Aspect of Harmony enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Sapience 2—{3} ({3}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Rapid Construction</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target permanent gains first strike until end of turn.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Urban Development</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land or Building
+When Urban Development enters, draw a card.
+Enchanted permanent has “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Gigant&apos;s Favor</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact or enchantment.
+• Put a +1/+1 counter on target creature. It gains reach until end of turn.</text>
+    </card>
+    <card>
+      <name>Raltan Emissary</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Raltan Emissary enters, put a +1/+1 counter on target non-Human permanent you control.</text>
+    </card>
+    <card>
+      <name>Gigant&apos;s Wrath</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control if it’s transformed. Then it fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Highway Hitchhiker</name>
+      <set rarity="common" splitterPath="/Highway Hitchhiker.png" >AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Werewolf Serf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{5}: Transform Highway Hitchhiker. Activate only outside of combat.
+Vigilance
+---
+(Back): Cunning Highwayman</text>
+      <related attach="transform">Cunning Highwayman</related>
+    </card>
+    <card>
+      <name>Cunning Highwayman</name>
+      <set rarity="common" splitterPath="/Cunning Highwayman.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf Rogue </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+---
+(Front): Highway Hitchhiker</text>
+    </card>
+    <card>
+      <name>Hazenwyld Godbeast</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Aurochs Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hazenwyld Godbeast enters with a +1/+1 counter on it.
+Creatures you control with counters on them have reach.</text>
+    </card>
+    <card>
+      <name>Integrate into Society</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the the top eight cards of your library. You may reveal up to two non-Human creature cards from among them and put them into your hand. Put rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Vratan Explorer</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Crab Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Scry 1.
+Once each turn, whenever another creature enters under your control, untap Vratan Explorer.</text>
+    </card>
+    <card>
+      <name>Hand of Percival</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, Hand of Percival gets +1/+0 until end of turn and can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Cephalopticon</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Octopus Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Cephalopticon enters, tap target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Chilling Effect</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Chilling Effect enters, tap target creature an opponent controls and put a stun counter on it.
+Sapience 2—{3} ({3}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Percival&apos;s Strategist</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Percival’s Strategist attacks, target player mills two cards. You draw a card if a Human card is milled this way.</text>
+    </card>
+    <card>
+      <name>Vratan Portraitist</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vratan Portraitist enters, tap target creature. It doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Ithian Clairvoyant</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you scry one or more cards, put a +1/+1 counter on target permanent.</text>
+    </card>
+    <card>
+      <name>Highlands Warden</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Highlands Warden enters, scry 1.</text>
+    </card>
+    <card>
+      <name>Ithian Reaver</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Horror Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ithian Reaver has hexproof as long as you’ve scryed this turn.</text>
+    </card>
+    <card>
+      <name>Odajex Artificer</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Soften</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}.
+Scry 1.</text>
+    </card>
+    <card>
+      <name>Take Back Control</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if there are two or more Humans in your graveyard.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Narcoleptic Transformation</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you don’t control
+Whenever enchanted creature becomes untapped, tap it. If it’s a Werewolf, transform it instead. </text>
+    </card>
+    <card>
+      <name>Aspect of Innovation</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Aspect of Innovation enters, draw two cards.
+Sapience 3—{6} ({6}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Ponder the Omnisonder</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may put a card from your hand on top of your library. If you do, scry 2, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Skyhigh Scaffolds</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target permanent gains flying until end of turn.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Planning Permission</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two target nonland permanents to their owner’s hands.
+Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Town Hall</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Town Hall enters, up to one target creature gets +1/+1 until end of turn.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Grammar School</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Grammar School enters or attacks, draw a card, then discard a card.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>War Memorial</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever War Memorial enters or attacks, up to one target creature gains deathtouch until end of turn.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Emergency Club</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Building Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Bleak Jail</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Bleak Jail enters, scry 2.
+{5}, {T}, Sacrifice Bleak Jail: It deals 4 damage to target creature. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>Roadside Tavern</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{7}, {T}, Sacrifice Roadside Tavern: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Market Stall</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Market Stall enters or attacks, exile the top card of your library. You may play that card this turn.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Monastery Warden</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Building Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}: Monastery Warden gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>City Center</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 2 life, Sacrifice City Center: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Pernicious Scheme </name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two target nonland permanents controlled by different players. Return those permanents to their owner’s hands.</text>
+    </card>
+    <card>
+      <name>Endless Vassals</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return to your hand up to four target creature cards in your graveyard that have no creature types in common.</text>
+    </card>
+    <card>
+      <name>Thoughtlich&apos;s Phylactery</name>
+      <set rarity="rare" splitterPath="/Thoughtlich's Phylactery.png" >AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may transform Thoughtlich’s Phylactery. If you do, transform it back at the beginning of the next end step.
+{2}, {T}: Exile target card in a graveyard. You gain 2 life.
+---
+(Back): Returned Thoughtlich</text>
+      <related attach="transform">Returned Thoughtlich</related>
+    </card>
+    <card>
+      <name>Returned Thoughtlich</name>
+      <set rarity="rare" splitterPath="/Returned Thoughtlich.png" >AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf Shapeshifter </type>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As this creature transforms into Returned Thoughtlich, choose a creature card exiled by it. If you do, Returned Thoughtlich becomes a copy of that card, except it’s a Werewolf Shapeshifter in addition to its other types.
+---
+(Front): Thoughtlich&apos;s Phylactery</text>
+    </card>
+    <card>
+      <name>Odajex Thrall</name>
+      <set rarity="uncommon" splitterPath="/Odajex Thrall.png" >AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Werewolf Serf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Odajex Thrall enters, exile target noncreature spell.
+{6}: Transform Odajex Thrall. Activate only outside of combat.
+---
+(Back): Thoughtlich Willbender</text>
+      <related attach="transform">Thoughtlich Willbender</related>
+    </card>
+    <card>
+      <name>Thoughtlich Willbender</name>
+      <set rarity="uncommon" splitterPath="/Thoughtlich Willbender.png" >AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Shapeshifter </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature transforms into Thoughtlich Willbender, you may cast a spell exiled by it without paying its mana cost.
+---
+(Front): Odajex Thrall</text>
+    </card>
+    <card>
+      <name>Percithan Farmhand</name>
+      <set rarity="uncommon" splitterPath="/Percithan Farmhand.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Werewolf Worker </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Percithan Farmhand.
+Once each turn, whenever you scry one or more cards, create a Food token. (“{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+---
+(Back): Percithan Accountant</text>
+      <related attach="transform">Percithan Accountant</related>
+    </card>
+    <card>
+      <name>Percithan Accountant</name>
+      <set rarity="uncommon" splitterPath="/Percithan Accountant.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf Worker </type>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Percithan Accountant.
+Once each turn, whenever you gain life, create a Glyph token. (“{1}, {T}, Sacrifice this artifact: Scry 1.”)
+---
+(Front): Percithan Farmhand</text>
+    </card>
+    <card>
+      <name>Ithian Ransacker</name>
+      <set rarity="uncommon" splitterPath="/Ithian Ransacker.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard Werewolf Barbarian </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{7}: Transform Ithian Ransacker. Activate only outside of combat.
+Ithian Ransacker has first strike as long as it’s attacking.
+---
+(Back): Callwolf Slaughterer</text>
+      <related attach="transform">Callwolf Slaughterer</related>
+    </card>
+    <card>
+      <name>Callwolf Slaughterer</name>
+      <set rarity="uncommon" splitterPath="/Callwolf Slaughterer.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Barbarian </type>
+        <pt>9/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Callwolf Slaughterer has first strike and trample as long as it’s attacking.
+---
+(Front): Ithian Ransacker</text>
+    </card>
+    <card>
+      <name>Sired Innocent</name>
+      <set rarity="uncommon" splitterPath="/Sired Innocent.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Werewolf Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Sired Innocent.
+Whenever Sired Innocent attacks, you may discard a card. If you do, draw a card.
+---
+(Back): Hardened Criminal</text>
+      <related attach="transform">Hardened Criminal</related>
+    </card>
+    <card>
+      <name>Hardened Criminal</name>
+      <set rarity="uncommon" splitterPath="/Hardened Criminal.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf Rogue </type>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Hardened Criminal.
+Sacrifice a nonland permanent: Put a +1/+1 counter on Hardened Criminal.
+---
+(Front): Sired Innocent</text>
+    </card>
+    <card>
+      <name>Eulogist of Champions</name>
+      <set rarity="uncommon" splitterPath="/Eulogist of Champions.png" >AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Centaur Werewolf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{7}: Transform Eulogist of Champions. Activate only outside of combat.
+When Eulogist of Champions enters, mill four cards. Return a card milled this way to your hand.
+---
+(Back): Herald of Champions</text>
+      <related attach="transform">Herald of Champions</related>
+    </card>
+    <card>
+      <name>Herald of Champions</name>
+      <set rarity="uncommon" splitterPath="/Herald of Champions.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Druid </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+You may cast creature spells from your graveyard.
+---
+(Front): Eulogist of Champions</text>
+    </card>
+    <card>
+      <name>Hazenwyld Reclaimer</name>
+      <set rarity="uncommon" splitterPath="/Hazenwyld Reclaimer.png" >AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{7}: Transform Hazenwyld Reclaimer. Activate only outside of combat.
+When Hazenwyld Reclaimer, each opponent sacrifices an artifact or enchantment.
+---
+(Back): Rubble Smasher</text>
+      <related attach="transform">Rubble Smasher</related>
+    </card>
+    <card>
+      <name>Rubble Smasher</name>
+      <set rarity="uncommon" splitterPath="/Rubble Smasher.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Berserker </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature transforms into Rubble Smasher, destroy target noncreature permanent.
+---
+(Front): Hazenwyld Reclaimer</text>
+    </card>
+    <card>
+      <name>Channelling Amulet</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment  // Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Activated abilities of equipped creature  cost {2} less to activate. This effect can’t reduce the mana in that cost to less than one mana.
+Equipped creature gets +2/+2 as long as it’s transformed.
+Equip {1}
+--- 
+{T}: Add CC. Spend this mana only on equipped creature’s activated abilities.
+Equipped creature gets +2/+2.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Tainted Bass</name>
+      <set rarity="uncommon" splitterPath="/Tainted Bass.png" >AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fish Werewolf Serf </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>7U: Transform Tainted Bass. This ability costs {1} less to activate for each instant or sorcery card in your graveyard. Activate only outside of combat.
+---
+(Back): Vrataport Ambusher</text>
+      <related attach="transform">Vrataport Ambusher</related>
+    </card>
+    <card>
+      <name>Vrataport Ambusher</name>
+      <set rarity="uncommon" splitterPath="/Vrataport Ambusher.png" >AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Werewolf Barbarian </type>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Discard a card: Return Vrataport Ambusher to your hand.
+---
+(Front): Tainted Bass</text>
+    </card>
+    <card>
+      <name>Odajex Explorer</name>
+      <set rarity="uncommon" splitterPath="/Odajex Explorer.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Odajex Explorer.
+Whenever you cast a spell, exile the top card of your library face-down and look at it.
+---
+(Back): Odajex Seeker</text>
+      <related attach="transform">Odajex Seeker</related>
+    </card>
+    <card>
+      <name>Odajex Seeker</name>
+      <set rarity="uncommon" splitterPath="/Odajex Seeker.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Wizard </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Odajex Seeker.
+You may cast spells exiled by this creature.
+---
+(Front): Odajex Explorer</text>
+    </card>
+    <card>
+      <name>Hazenwyld Tender</name>
+      <set rarity="uncommon" splitterPath="/Hazenwyld Tender.png" >AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Werewolf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{6}: Transform Hazenwyld Tender. Activate only outside of combat.
+{T}: Add one mana of any color.
+---
+(Back): Thundertender</text>
+      <related attach="transform">Thundertender</related>
+    </card>
+    <card>
+      <name>Thundertender</name>
+      <set rarity="uncommon" splitterPath="/Thundertender.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf Elemental </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Add two mana in any combination of colors.
+---
+(Front): Hazenwyld Tender</text>
+    </card>
+    <card>
+      <name>Callwolf Champion</name>
+      <set rarity="uncommon" splitterPath="/Callwolf Champion.png" >AKU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bear Werewolf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{8}: Transform Callwolf Champion. Activate only outside of combat.
+When Callwolf Champion enters, it fights up to one other target creature.
+---
+(Back): Callwolf Stratoscraper</text>
+      <related attach="transform">Callwolf Stratoscraper</related>
+    </card>
+    <card>
+      <name>Callwolf Stratoscraper</name>
+      <set rarity="uncommon" splitterPath="/Callwolf Stratoscraper.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Warrior </type>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature transforms into Callwolf Stratoscraper, it fights up to one other target creature.
+---
+(Front): Callwolf Champion</text>
+    </card>
+    <card>
+      <name>Shield of Admiraltus</name>
+      <set rarity="uncommon" splitterPath="/Shield of Admiraltus.png" >AKU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Shield of Admiraltus.
+Vigilance
+Whenever Shield of Admiraltus attacks or blocks, create a 1/1 white Citizen creature token.
+---
+(Back): Sword of Admiraltus</text>
+      <related attach="transform">Sword of Admiraltus</related>
+    </card>
+    <card>
+      <name>Sword of Admiraltus</name>
+      <set rarity="uncommon" splitterPath="/Sword of Admiraltus.png" >AKU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Knight </type>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Sword of Admiraltus.
+Creature tokens you control get +1/+0.
+---
+(Front): Shield of Admiraltus</text>
+    </card>
+    <card>
+      <name>Funeral Director</name>
+      <set rarity="uncommon" splitterPath="/Funeral Director.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Funeral Director.
+{1}, Discard a card: Funeral Director gains indestructible until end of turn. Tap it.
+---
+(Back): Funeral Averter</text>
+      <related attach="transform">Funeral Averter</related>
+    </card>
+    <card>
+      <name>Funeral Averter</name>
+      <set rarity="uncommon" splitterPath="/Funeral Averter.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Cleric </type>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Funeral Averter.
+Whenever Funeral Averter attacks, you may pay 2W. If you do, return target non-Human permanent card with mana value 2 or less from your graveyard to the battlefield.
+---
+(Front): Funeral Director</text>
+    </card>
+    <card>
+      <name>Blackhand Jailer</name>
+      <set rarity="uncommon" splitterPath="/Blackhand Jailer.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Troll Werewolf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Blackhand Jailer.
+When this creature enters or transforms into Blackhand Jailer, exile up to one target nonland permanent until Blackhand Jailer leaves the battlefield or transforms.
+---
+(Back): Civil Prosecutor</text>
+      <related attach="transform">Civil Prosecutor</related>
+    </card>
+    <card>
+      <name>Civil Prosecutor</name>
+      <set rarity="uncommon" splitterPath="/Civil Prosecutor.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creatre - Werewolf Advisor</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may transform Civil Prosecutor.
+Civil Prosecutor has first strike if it’s attacking.
+Creatures your opponents control enter the battlefield tapped.
+---
+(Front): Blackhand Jailer</text>
+    </card>
+    <card>
+      <name>Veteran&apos;s Loathing</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target non-Human creature.</text>
+    </card>
+    <card>
+      <name>Prosperous Port</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{4}, {T}, Sacrifice Prosperous Port: Develop. Activate only outside of combat. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Vratan Spymaster</name>
+      <set rarity="uncommon" splitterPath="/Vratan Spymaster.png" >AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Vratan Spymaster.
+{1}, Discard a card: Target Human can’t be blocked this turn.
+---
+(Back): Infectious Vigilante</text>
+      <related attach="transform">Infectious Vigilante</related>
+    </card>
+    <card>
+      <name>Infectious Vigilante</name>
+      <set rarity="uncommon" splitterPath="/Infectious Vigilante.png" >AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Assassin </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Infectious Vigilante.
+Whenever Infectious Vigilante attacks, you may exile a Human card from your graveyard. If you do, create a tapped 2/2 red Werewolf creature token.
+---
+(Front): Vratan Spymaster</text>
+    </card>
+    <card>
+      <name>Raltan Veteran</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Transformed permanents you control have ward {2}.</text>
+    </card>
+    <card>
+      <name>Postal Courier</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Postal Courier enters, exile target permanent you control until Postal Courier leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Ithian Liberator</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ithian Liberator has first strike as long as it’s attacking.
+Whenever you scry one or more cards, you may pay {1}. If you do, create that many 1/1 white Citizen creature tokens.</text>
+    </card>
+    <card>
+      <name>Master of Mortar</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dwarf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+When Master of Mortar enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Godtouched Hex</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hex Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Exploit (When this creature enters, you may sacrifice a creature.)
+When Godtouched Hex exploits a creature, tap all creatures your opponents control.</text>
+    </card>
+    <card>
+      <name>Transcend Umwelts</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is the number of creature types among non-Human creatures you control.</text>
+    </card>
+    <card>
+      <name>Fight as One</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Target Human creature you control gets +1/+1 and gains indestructible until end of turn.
+• Target non-Human creature you control gets +1/+1 and gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Platinum&apos;s Proclamation</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent if its mana value is less than or equal to the number of creature types among non-Human creatures you control.</text>
+    </card>
+    <card>
+      <name>Fastidious Bridge</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Fastidious Bridge enters, exile target nonland permanent an opponent controls with mana value 2 or less until Fastidious Bridge leaves the battlefield.
+Sapience 3—{4} ({4}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Worldsense</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1.
+If you haven’t cast an Aura spell this turn, You may cast Worldsense from your graveyard targetting a non-Human creature.</text>
+    </card>
+    <card>
+      <name>Steelskin Engineer</name>
+      <set rarity="uncommon" splitterPath="/Steelskin Engineer.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Werewolf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Steelskin Engineer.
+At the beginning of each end step, if you cast an Aura, Equipment, or Vehicle spell this turn, draw a card.
+---
+(Back): Steelhide Strategist</text>
+      <related attach="transform">Steelhide Strategist</related>
+    </card>
+    <card>
+      <name>Steelhide Strategist</name>
+      <set rarity="uncommon" splitterPath="/Steelhide Strategist.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Creature - Werewolf Soldier </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Steelhide Strategist.
+Whenever an artifact, enchantment, enchanted, or equipped creature you control attacks, tap target creature an opponent controls.
+---
+(Front): Steelskin Engineer</text>
+    </card>
+    <card>
+      <name>Library Access</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Library Access enters, scry 1.
+Whenever you scry one or more cards, put that many +1/+1 counters on enchanted creature.</text>
+    </card>
+    <card>
+      <name>Societal Collapse</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, all creatures have base toughness 0.</text>
+    </card>
+    <card>
+      <name>Parliament Assembly</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Parliament Assembly enters, choose Welfare or Tax.
+• Welfare — At the beginning of your end step, if a token entered under your control this turn, draw a card.
+• Tax — Creatures can’t attack you unless their controller pays {2} for each of those creatures.</text>
+    </card>
+    <card>
+      <name>Trash Compactor</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Ooze Worker </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+{T}: Exile target card in a graveyard. If you do, put a +1+1 counter on an artifact, enchantment, or land you control. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>Dread Propagandist</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Zombie Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dread Propagandist enters, target opponent discards a card, then you put a creature card from that player’s graveyard onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Percival&apos;s Silencer</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Percival’s Silencer enters, remove up to three counters from target permanent an opponent controls.</text>
+    </card>
+    <card>
+      <name>Evacuation Orders</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)
+All creatures get -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Percival&apos;s Retainers</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Zombie Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Percival’s Retainers enters, it deals X damage to target creature an opponent controls and you gain X life, where X is the number of Human cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Vratan War-Artist</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Thoughtlich Possession</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Hex Anesthetist</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hex Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
+Whenever you sacrifice a creature, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Smelly Sewers</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, if it had counters on it, you may put those counters on Smelly Sewers.
+3BB, Sacrifice Smelly Sewers: Draw a card for each counter on Smelly Sewers.</text>
+    </card>
+    <card>
+      <name>Omnisonder&apos;s Influence</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UUU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an instant or sorcery spell from your hand, put it onto the battlefield as a 3/2 blue Incarnation creature instead of putting it into your graveyard as it resolves. If you do, it gains “When this card deals combat damage to a player, exile it, then you may cast it without paying its mana cost.”</text>
+    </card>
+    <card>
+      <name>Carpenter&apos;s Tools</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Carpenter’s Tools enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)
+Equipped creature gets +2/+2.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Monastery Ambassador</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dryad Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each other non-Human creature you control enters with a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Police Officer</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ooze Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, Police Officer fights up to one target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Raltan Lifecrafter</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Raltan Lifecrafter enters, create a 3/3 colorless Construct artifact creature token.
+Whenever an artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on any number of target artifacts.</text>
+    </card>
+    <card>
+      <name>Timeless Ancient</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast Spirit Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Timeless Ancient enters, return target non-Human card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Raltan Meekblade</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Frog Squirrel Knight </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Raltan Meekblade attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures you control.</text>
+    </card>
+    <card>
+      <name>Callwolf Disobedience </name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Callwolf Disobedience enters, enchanted creature gets +X/+X until end of turn, where X is the number of Forests you control.
+Whenever enchanted creature deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Ending Earthly Hibernation</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Noncreature, non-Aura permanents you control have sapience 3—{3}. ({3}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Electoral Victory</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target permanent gains trample until end of turn. Put a +1/+1 counter on it, then move any number of counters from other permanents you control onto it.</text>
+    </card>
+    <card>
+      <name>Industrialise</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Unsleeping City</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Circus of Ekrata</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, put a stunt counter on Circus of Ekrata, then draw a card for each stunt counter on it.
+At the beginning of your end step, if you’ve cast fewer spells this turn than the number of stunt counters on Circus of Ekrata, sacrifice it and discard your hand.</text>
+    </card>
+    <card>
+      <name>Council Housing</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Council Housing enters with three +1/+1 counters on it.
+{T}: Move a +1/+1 counter from Council Housing onto another target permanent. Activate only outside of combat.
+Sapience 3—{5}</text>
+    </card>
+    <card>
+      <name>Errant Ur-Gifted</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Errant Ur-Gifted attacks, it and each other attacking creature with lesser power gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Downtrodden Pavement</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Downtrodden Pavement enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)
+Whenever Downtrodden Pavement attacks, target creature with lesser power can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Model Sculptor</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Model Sculptor can’t be blocked.
+When Model Sculptor enters, develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Odajex Idoliser</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Incarnations you control have flying.</text>
+    </card>
+    <card>
+      <name>Will of the People</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each Human in your graveyard.
+Put target spell or permanent on top of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Ithian Outcast</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Lizard Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you scry one or more cards, Ithian Outcast gets +1/+1 and gains flying until end of turn.
+2U: Scry 1.</text>
+    </card>
+    <card>
+      <name>Syakir&apos;s Attendant</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Monk </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of combat on your turn, put the bottom card of your library into your graveyard. Syakir’s Attendant gets +X/+0 until end of turn, where X is that card’s mana value.</text>
+    </card>
+    <card>
+      <name>Tourist Attraction</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each card type among permanents you control. </text>
+    </card>
+    <card>
+      <name>Deescalate</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Counter target instant or sorcery spell.
+• Counter target activated or triggered ability. (Mana abilities can’t be targeted.)</text>
+    </card>
+    <card>
+      <name>Grandfather Clock</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Grandfather Clock enters or attacks, return up to one target creature to its owner’s hand.
+Sapience 6—{6} ({6}: If this isn’t a creature, put six +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Poisoned Words</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant permanent
+This spell costs {2} less to cast if it targets a Human.
+You control enchanted permanent.</text>
+    </card>
+    <card>
+      <name>Meandering Stream</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an artifact or enchantment you control deals combat damage to a player or planeswalker, draw a card.
+Sapience 4—{6} ({6}: If this isn’t a creature, put four +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Care Worker</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Worker </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Care Worker dies, if it’s your turn, create a 1/1 white Citizen creature token.</text>
+    </card>
+    <card>
+      <name>Foreboding Abode</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature dies, put a +1/+1 counter on target artifact or enchantment you control.
+Sapience 2—{4} ({4}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Brutal Retaliation</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Brutal Retaliation deals 2 damage to each creature that’s not transformed.</text>
+    </card>
+    <card>
+      <name>Channel the Call</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top card of your library, then Channel the Call deals 2 damage to each opponent unless you cast that card.
+Whenever a permanent you control transforms or enters transformed, return Channel the Call from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Stressed Supports</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Stressed Supports enters, destroy target artifact an opponent controls.
+Sapience 2—{2} ({2}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Monastery Librarians</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Pest </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Pay 1 life: Add {C}. You can’t spend this mana to cast spells.</text>
+    </card>
+    <card>
+      <name>Marketplace Guide</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct Worker </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Marketplace Guide enters, search your library for a card with the same name as another permanent you control, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Fire Station</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Fire Station enters, create a 3/5 Vehicle artifact token named Fire Engine with crew 4.
+Whenever a permanent you control becomes a creature, up to one target creature gets -4/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Crowd of Hooligans</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Crowd of Hooligans enters with a +1/+1 counter on it.
+Creatures you control with counters on them have menace.</text>
+    </card>
+    <card>
+      <name>Lycanthropic Dispute </name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature’s controller creates a token that’s a copy of it. If that creature’s a double-faced Werewolf, they instead create a token that’s a copy of its other face. Then those two creatures fight each other.</text>
+    </card>
+    <card>
+      <name>Seething Forge</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep or whenever Seething Forge attacks, create a 1/1 red Worker creature token with “This creature can’t block.”
+Sapience 3—{5} ({5}: If this isn’t a creature, put three +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Devout Utopianist</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a non-Human creature spell, put a +1/+1 counter on Devout Utopianist.</text>
+    </card>
+    <card>
+      <name>Military Barracks</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Military Barracks enters, choose a number.
+Attacking creatures you control with power equal to chosen value have double strike.</text>
+    </card>
+    <card>
+      <name>Vassal of Thoughts</name>
+      <set rarity="rare" splitterPath="/Vassal of Thoughts.png" >AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hydra Werewolf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{6}: Transform Vassal of Thoughts. Activate only outside of combat.
+Whenever you cast a Werewolf spell, draw a card.
+---
+(Back): Endless Conciousnesses</text>
+      <related attach="transform">Endless Conciousnesses</related>
+    </card>
+    <card>
+      <name>Endless Conciousnesses</name>
+      <set rarity="rare" splitterPath="/Endless Conciousnesses.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Elemental </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature transforms into Endless Conciousnesses, transform any number of other target Werewolves you control.
+---
+(Front): Vassal of Thoughts</text>
+    </card>
+    <card>
+      <name>Cargo Train</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact  - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample
+Whenever a creature crews Cargo Train, you may exile it until Cargo Train deals combat damage to an opponent. (They return even if the train dies in dealing damage.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Svakarataja, Hex Metropolis</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Artifact Creature - Building Worm </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {8}
+When Svakarataja enters, create an 8/8 colorless Segment artifact creature token for each other artifact you control.</text>
+    </card>
+    <card>
+      <name>Karaja Hetegex</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Karaja </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1UB, Discard Karaja Hetegex: You may activate her loyalty ability as though she was on the battlefield without paying its costs.
+[-1]: Choose one —
+• Return target artifact, enchantment, or spell to its owner’s hand.
+•  Target creature gets -2/-2 until end of turn.
+•  Scry 1, then draw a card.
+​
+</text>
+    </card>
+    <card>
+      <name>Trueblight Slayer</name>
+      <set rarity="common">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hex Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
+When Trueblight Slayer exploits a creature, it deals 3 damage to target tapped creature.</text>
+    </card>
+    <card>
+      <name>Hex Trueblight</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hex Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit, exploit, exploit, exploit (When this enters the battlefield, you may sacrifice up to four creatures.)
+Whenever Hex Trueblight exploits a creature, each opponent loses 3 life unless they discard a card.</text>
+    </card>
+    <card>
+      <name>Intrude Upon Memories</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile seven cards you own from outside the game face down. If exactly seven cards were exiled this way, put X of those cards at random into your hand.</text>
+    </card>
+    <card>
+      <name>Akaja, Steel Chancellor</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hex Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
+Whenever a creature you control exploits, create a 1/1 white Citizen creature token, then put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Urban Sprawl</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top six cards of your library. Put up to two artifact or enchantment cards with mana value 3 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Ruined Settlement</name>
+      <set rarity="rare" splitterPath="/Ruined Settlement.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Tap an untapped creature you control: Scry 1, then put a brick counter on Ruined Settlement. Then if there are three or more counters on Ruined Settlement, you may transform it.
+---
+(Back): Insomn, Unsleeping City</text>
+      <related attach="transform">Insomn, Unsleeping City</related>
+    </card>
+    <card>
+      <name>Insomn, Unsleeping City</name>
+      <set rarity="rare" splitterPath="/Insomn, Unsleeping City.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Whenever a creature you control becomes tapped, if it becoming tapped hasn’t triggered this ability this turn, untap it.
+{T}: Add {C}.
+Tap two untapped creatures you control: Add one mana of any color.
+---
+(Front): Ruined Settlement</text>
+    </card>
+    <card>
+      <name>Eternal Soulmate</name>
+      <set rarity="rare" splitterPath="/Eternal Soulmate.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Werewolf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Eternal Soulmate.
+Lifelink, vigilance, ward {3}
+Whenever Eternal Soulmate attacks, create a token that’s a copy of its other face that’s tapped and attacking. Exile it at end of turn.
+---
+(Back): Guardian Barghest</text>
+      <related attach="transform">Guardian Barghest</related>
+    </card>
+    <card>
+      <name>Guardian Barghest</name>
+      <set rarity="rare" splitterPath="/Guardian Barghest.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Werewolf Warrior </type>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Guardian Barghest.
+Flying
+Whenever Guardian Barghest attacks, create a token that’s a copy of its other face that’s tapped and attacking. Exile it at end of turn.
+---
+(Front): Eternal Soulmate</text>
+    </card>
+    <card>
+      <name>Odajex Regent</name>
+      <set rarity="rare" splitterPath="/Odajex Regent.png" >AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Sphinx Werewolf Serf </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Discard two cards: Transform Odajex Regent and it gains hexproof until end of turn. Activate only once each turn.
+Flying
+Whenever Odajex Regent attacks, scry 1, then draw a card.
+---
+(Back): Odajex Overlord</text>
+      <related attach="transform">Odajex Overlord</related>
+    </card>
+    <card>
+      <name>Odajex Overlord</name>
+      <set rarity="rare" splitterPath="/Odajex Overlord.png" >AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Advisor </type>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Odajex Overlord attacks, scry 2, then draw a card.
+---
+(Front): Odajex Regent</text>
+    </card>
+    <card>
+      <name>Lightning&apos;s Attendant</name>
+      <set rarity="rare" splitterPath="/Lightning's Attendant.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Werewolf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{4}: Transform Lightning’s Attendant. Activate only outside of combat.
+Haste
+Lightning’s Attendant gets +1/+1 as long as you control another transformed permanent.
+---
+(Back): Royal Bodyguard</text>
+      <related attach="transform">Royal Bodyguard</related>
+    </card>
+    <card>
+      <name>Royal Bodyguard</name>
+      <set rarity="rare" splitterPath="/Royal Bodyguard.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Werewolf Soldier </type>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Other creatures you control get +1/+1.
+---
+(Front): Lightning&apos;s Attendant</text>
+    </card>
+    <card>
+      <name>Debt Collector</name>
+      <set rarity="uncommon" splitterPath="/Debt Collector.png" >AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Werewolf Worker </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Debt Collector.
+Deathtouch
+Whenever Debt Collector attacks and isn’t blocked, defending player discards a card.
+---
+(Back): Barghest of Tithes</text>
+      <related attach="transform">Barghest of Tithes</related>
+    </card>
+    <card>
+      <name>Barghest of Tithes</name>
+      <set rarity="uncommon" splitterPath="/Barghest of Tithes.png" >AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf Assassin </type>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Barghest of Tithes.
+Barghest of Tithes gets -1/-1 for each card in each opponent’s hand.
+---
+(Front): Debt Collector</text>
+    </card>
+    <card>
+      <name>Urdonic Tourist</name>
+      <set rarity="rare" splitterPath="/Urdonic Tourist.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Werewolf Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Urdonic Tourist.
+Flying, haste
+{4}: Urdonic Tourist deals 1 damage to any number of targets.
+---
+(Back): Nesting Wolf</text>
+      <related attach="transform">Nesting Wolf</related>
+    </card>
+    <card>
+      <name>Nesting Wolf</name>
+      <set rarity="rare" splitterPath="/Nesting Wolf.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf Shaman </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform Nesting Wolf.
+Creatures dealt damage this turn have get +1/+0 and can’t block.
+---
+(Front): Urdonic Tourist</text>
+    </card>
+    <card>
+      <name>Routine Maintenance</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice an artifact or enchantment: Develop. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent.)</text>
+    </card>
+    <card>
+      <name>Shambling Shelter</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Treefolk Building </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Shambling Shelter attacks, put a +1/+1 counter on target creature.
+{2}, Sacrifice an artifact: Target permanent with a counter on it gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Ullrgethin, Syakir of Ith</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you scry one or more cards, you may have Ullrgethin become a 4/4 Incarnation Noble creature until end of turn. (Unattach it.)
+Whenever Ullrgethin or equipped creature deals combat damage to a player or planeswalker, draw a card and reveal it. You gain life equal to its mana value.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Haril, War Veteran</name>
+      <set rarity="rare" splitterPath="/Haril, War Veteran.png" >AKU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform this card.
+Double strike
+Whenever Haril, War Veteran deals combat damage to an opponent, create a 1/1 white Citizen creature token.
+---
+(Back): Basil, Peace Evangelist</text>
+      <related attach="transform">Basil, Peace Evangelist</related>
+    </card>
+    <card>
+      <name>Basil, Peace Evangelist</name>
+      <set rarity="rare" splitterPath="/Basil, Peace Evangelist.png" >AKU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Werewolf Noble </type>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may transform this card.
+Tap five untapped creatures you control: Draw a card.
+---
+(Front): Haril, War Veteran</text>
+    </card>
+    <card>
+      <name>Halaja of the Embraced</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Bear Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, choose a creature type, then create a 1/1 Green creature token named Embraced Representative that’s the chosen type.
+Other creatures you control that share no creature types with another creature you control have hexproof.</text>
+    </card>
+    <card>
+      <name>Agnes, Royal Tutor</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Agnes attacks, each player draws a card, then discards a card.
+Whenever a player discards a card, exile that card from its controller’s graveyard. If you do, you may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Hyyiraja, Voice of Odajex</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Efreet Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you tap a permanent for mana during your turn, add {C}. You can’t spend this mana to cast spells.</text>
+    </card>
+    <card>
+      <name>Novablast, Urdonic Queen</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Dragon Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your upkeep, create a 4/4 Dragon creature token with flying, then sacrifice a creature.
+Whenever another Dragon you control dies, each opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Dread Tyrant Algaja</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Crocodile Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+BG, {T}, Remove five counters from among permanents you control: Mill five cards, then return a creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Gristle, Callwolf Attendant</name>
+      <set rarity="rare" splitterPath="/Gristle, Callwolf Attendant.png" >AKU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{7}: Transform Gristle, Callwolf Attendant. Activate only outside of combat.
+Whenever an opponent casts a spell during your turn, Gristle deals 3 damage to that player.
+---
+(Back): Gristlethark, Callwolf Chieftain</text>
+      <related attach="transform">Gristlethark, Callwolf Chieftain</related>
+    </card>
+    <card>
+      <name>Gristlethark, Callwolf Chieftain</name>
+      <set rarity="rare" splitterPath="/Gristlethark, Callwolf Chieftain.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Werewolf Noble </type>
+        <pt>12/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever an opponent casts a spell during your turn, Gristlethark deals 12 damage to that player.
+---
+(Front): Gristle, Callwolf Attendant</text>
+    </card>
+    <card>
+      <name>Percival, Savior of Man</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Human Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast Human spells from your graveyard.
+{B}: Each player sacrifices a creature, an enchantment, and a land.</text>
+    </card>
+    <card>
+      <name>Eternal Reign</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, scry 1.
+Whenever you scry one or more cards, put a devotion counter on Eternal Reign. Then if there are seven or more counters on Eternal Reign, return target permanent card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Percithan Mediator</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phelddagrif Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+2G: Each player creates a tapped token that’s a copy of a land they control.
+2W: Each player gains 3 life.
+2U: Each player draws a card.</text>
+    </card>
+    <card>
+      <name>Akellan Uprising</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile Akellan Uprising and all creatures. At the beginning of the next end step, return all creature cards exiled this way to the battlefield under their owner’s control.</text>
+    </card>
+    <card>
+      <name>Shattered Identity</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>4WU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target permanent. Each player other than its controller creates a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Empathiser</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter Worker </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Empathiser enter as a copy of any permanent on the battlefield, except it has sapience 5—{2} if it’s not a creature. ({2}: If this isn’t a creature, put five +1/+1 counters on it and it becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Picantomancer</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7U</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Giant Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Target creature you don’t control has base power and toughness 1/1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Toxic Mindset</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Remove a counter from a permanent you control: Target player mills four cards.
+Sapience X—{X} ({X}: If this isn’t a creature, put X +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Grieve</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay {3} or discard your hand.
+Exile target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Host Farm</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Human tokens you control can’t attack or block.
+At the beginning of your end step, create a 2/1 black Human creature token and you lose 1 life.
+Whenever a Human you control dies, you gain 1 life. If it was sacrificed, draw a card.</text>
+    </card>
+    <card>
+      <name>Civil War</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, if a permanent dying would cause an ability you control to trigger, that ability triggers an additional time.
+Civil War deals 3 damage to each creature, each player, and each planeswalker.</text>
+    </card>
+    <card>
+      <name>Profane Rhetoric</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a noncreature card name. Search target player’s graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
+    </card>
+    <card>
+      <name>Bisapience Splitter</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Zombie Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from Werewolves
+Whenever a creature token dies, each opponent loses 1 life.
+{1}: Exile target transformed creature. Its controller creates a 2/2 red Werewolf creature token. You create a 1/1 white Citizen creature token.</text>
+    </card>
+    <card>
+      <name>Percival&apos;s Resurrection</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from a graveyard to the battlefield under your control, then destroy all creatures that share no creature types with it.</text>
+    </card>
+    <card>
+      <name>Zealot&apos;s Protection</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• You may choose new targets for target spell.
+• Zealot’s Protection deals 4 damage to target player who’s cast two or more spells this turn.</text>
+    </card>
+    <card>
+      <name>Parfaitionist</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment enters under your control, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+    </card>
+    <card>
+      <name>Call Overload</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6RR</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, whenever a creature dies, exile the top card of your library. Until end of turn, you may cast that card without paying its mana cost.
+Call Overload deals 6 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Mentor of Odajex</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Creatures you control that didn’t didn’t enter the battlefield as a creature have double strike.</text>
+    </card>
+    <card>
+      <name>Tense Atmosphere</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a source you control would deal damage, it deals that much damage plus 1 instead.
+Sapience 4—{4} ({4}: If this isn’t a creature, put four +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Panicked Populace</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a permanent you control becomes a creature, put a +1/+1 counter on it. It gains haste until end of turn.
+Sapience 2—{3} ({3}: If this isn’t a creature, put two +1/+1 counters on it. It becomes a 0/0 Incarnation creature in addition to its other types. Gain sapience only outside of combat.)</text>
+    </card>
+    <card>
+      <name>Godfather of Cement</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Golem Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Godfather of Cement enters, distribute six +1/+1 counters among any number of target permanents you control.
+{T}: Add CCC.</text>
+    </card>
+    <card>
+      <name>Ecologoyf</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lhurgoyf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ecologoyf gets +X/+X, where X is the number of creature types among non-Human cards in all graveyards.</text>
+    </card>
+    <card>
+      <name>Arlinn&apos;s Intervention</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
+Non-Human creature spells can’t be countered this turn.
+Non-Human creatures can’t be the targets of spells or abilities this turn.</text>
+    </card>
+    <card>
+      <name>Callwolf Festival</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all artifacts and enchantments with mana value X or less.</text>
+    </card>
+    <card>
+      <name>Natural Hierarchy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice any number of creatures with different mana values. For each creature sacrificed this way, search your library for a creature card with that sacrificed creature’s mana value plus 1 and put it onto the battlefield. Shuffle, then exile Natural Hierarchy.</text>
+    </card>
+    <card>
+      <name>Gigantomancer</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>7G</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Target creature you control has base power and toughness 7/7 until end of turn.</text>
+    </card>
+    <card>
+      <name>Ambassador&apos;s Gift</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Develop twice. (Reveal a Building you own from outside the game and put it into your hand, or put a +1/+1 counter on a permanent. Then do it again.)</text>
+    </card>
+    <card>
+      <name>Percithan Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Percithan Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Ithian Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Ithian Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Svakaratajex Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Svakaratajex Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Odajex Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Odajex Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Hazenwyld Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Hazenwyld Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Platinum, Heir to Cities</name>
+      <set rarity="mythic" splitterPath="/Platinum, Heir to Cities.png" >AKU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Humans you control get +1/+1.
+Whenever another Human enters under your control, tap up to one target creature and put a stun counter on it.
+---
+(Back): Lightning, Heir to Wilds</text>
+      <related attach="transform">Lightning, Heir to Wilds</related>
+    </card>
+    <card>
+      <name>Lightning, Heir to Wilds</name>
+      <set rarity="mythic" splitterPath="/Lightning, Heir to Wilds.png" >AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Werewolf Noble </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other non-Human creatures you control get +1/+1.
+Whenever another non-Human creature enters under your control, destroy up to one target artifact, enchantment, or planeswalker.
+---
+(Front): Platinum, Heir to Cities</text>
+    </card>
+    <card>
+      <name>Scion of Ixaja</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hex Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+Exploit (When this creature enters, you may sacrifice a creature.)
+When Scion of Ixaja exploits a creature, return target non-Angel creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Arlinn, Soulbonded</name>
+      <set rarity="mythic" splitterPath="/Arlinn, Soulbonded.png" >AKU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Arlinn </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, transform Arlinn unless you pay 2 life.
+[+2]: Discard up to two cards, then draw that many cards.
+[+1]: Create a 2/2 red Werewolf creature token. It gains haste until end of turn.
+---
+(Back): Haerii, Soul Intruder</text>
+      <related attach="transform">Haerii, Soul Intruder</related>
+    </card>
+    <card>
+      <name>Haerii, Soul Intruder</name>
+      <set rarity="mythic" splitterPath="/Haerii, Soul Intruder.png" >AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Haerii </type>
+        <loyalty></loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, transform Haerii unless you pay 2 life.
+[-1]: Gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+[-2]: Exile target card in your graveyard. You may cast a copy of it.
+[-3]: Haerii deals 4 damage to any target.
+---
+(Front): Arlinn, Soulbonded</text>
+    </card>
+    <card>
+      <name>The Argent Court</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact Creature - Building Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you bring a card from outside the game into the game, you may return The Argent Court from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Phtexaja, Nemesis of Virtue</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Hex Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
+Flying, haste
+Whenever a creature you control dies, Phtexaja deals 2 damage divided among any number of targets.</text>
+    </card>
+    <card>
+      <name>Lord Herongrand</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>4BGU</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Zombie Noble </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you don’t control dies, exile it. If you do, create a token that’s a copy of it, except it’s a Werewolf in addition to its other types.
+{3}, Sacrifice Lord Herongrand: Target Werewolf you control becomes a copy of him. (Indefinitely.)</text>
+    </card>
+    <card>
+      <name>Polity</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WWWW</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+All other creatures lose all abilities and have base power and toughness 1/1.</text>
+    </card>
+    <card>
+      <name>Literacy</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UUUU</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Discard a card: Tap or untap target permanent.</text>
+    </card>
+    <card>
+      <name>Artistry</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBBB</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Skip your draw step.
+If a card would be put into your graveyard from anywhere, exile it instead.
+Pay 1 life: At the beginning of your next end step, draw a card.</text>
+    </card>
+    <card>
+      <name>Fertility</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGGG</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+You may play any number of lands on each of your turns.
+Whenever you play a land, if it wasn’t the first land you played this turn, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Industry</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RRRR</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+You can cast spells only during your turn and you can cast no more than two spells each turn.
+You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Admiraltus&apos; Monument</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {2} less to cast if you control a Human and a non-Human creature.
+Whenever a creature you control attacks, it gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Percival&apos;s Monument</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Percival’s Monument enters, choose a creature type.
+Whenever a creature of the chosen type dies, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Pithing Needle</name>
+      <set rarity="uncommon">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Pithing Needle enters, choose a card name.
+Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.</text>
+    </card>
+    <card>
+      <name>Vrataport Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vrataport Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Embraced Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Embraced Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Insomnian Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Insomnian Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Urdonic Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Urdonic Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Herongrand&apos;s Embassy</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Herongrand’s Embassy enters tapped unless you control a noncreature, nonland permanent.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>New Connections</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Advisors, Artificers, Artists, Citizens, Nobles, Peasants and Workers you control each get +1/+1.</text>
+    </card>
+    <card>
+      <name>Differences Reconciled</name>
+      <set rarity="mythic">AKU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>XRRW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If you control two Humans and two non-Human creatures, this spell costs {4} less to cast.
+Exile the top X cards of your library. Until the end of your next turn, you may play those cards. Whenever you cast a spell this way, you gain life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Ithian Oligarch</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+If you would scry one or more cards, you may instead put up to that many instant or sorcery cards from your graveyard on top of your library, then scry that many cards.</text>
+    </card>
+    <card>
+      <name>Rade, Tempest Vassal</name>
+      <set rarity="mythic" splitterPath="/Rade, Tempest Vassal.png" >AKU</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace
+Whenever you attack with three or more Werewolves, for each of those creatures, create a token that’s a copy of its other face tapped and attacking. Exile those tokens at the beginning  of the next end step.
+---
+(Back): Skarrg, the Call Unshackled</text>
+      <related attach="transform">Skarrg, the Call Unshackled</related>
+    </card>
+    <card>
+      <name>Skarrg, the Call Unshackled</name>
+      <set rarity="mythic" splitterPath="/Skarrg, the Call Unshackled.png" >AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Werewolf Avatar </type>
+        <pt>6/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace
+Whenever a creature you control attacks and isn’t blocked, draw a card.
+Whenever a creature you control dies, Skarrg, the Call Unshackled deals 2 damage to each opponent.
+---
+(Front): Rade, Tempest Vassal</text>
+    </card>
+    <card>
+      <name>Karaja&apos;s Spark Hoard</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice a permanent: If that permanent had counters on it, move those counters onto Karaja’s Spark Hoard.
+{T}: Move any number of  counters from Karaja’s Spark Hoard onto target permanent. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>Massive Dam</name>
+      <set rarity="rare">AKU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Building Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+When Massive Dam has flying, sacrifice it.
+When Massive Dam dies, return to their owners’ hands all creatures with toughness equal to or less than the number of Islands you control.</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">AKU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Fire Engine</name>
+      <set>AKU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation</name>
+      <set>AKU</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon</name>
+      <set>AKU</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Segment</name>
+      <set>AKU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Segment </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Worker</name>
+      <set>AKU</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Worker </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Construct</name>
+      <set>AKU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human</name>
+      <set>AKU</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>AKU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Werewolf</name>
+      <set>AKU</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Glyph</name>
+      <set>AKU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Glyph </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Sacrifice this artifact: Scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Citizen</name>
+      <set>AKU</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Food</name>
+      <set>AKU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this token: You gain 3 life.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Embraced Representative</name>
+      <set>AKU</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Embraced Representative enters, choose a creature type.
+Embraced Representative is the chosen type.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
